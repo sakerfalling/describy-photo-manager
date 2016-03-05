@@ -1,0 +1,8 @@
+# mac-specific
+.DS_Store
+
+# ignore image folder
+pix/
+
+# DB files
+*.sqlite
